@@ -17,31 +17,31 @@ https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9g
 # Data Analysis Workflow
 The Data Analysis Workflow followed for this project is as shown below.
 
-Data Collection & Preparation
+1. Data Collection & Preparation
 
-Exploratory Data Analysis
+2. Exploratory Data Analysis
 
-Data Cleaning
+3. Data Cleaning
 
-Data Visualization & Dashboard
+4. Data Visualization & Dashboard
 
-Pre-Modeling Steps
+5. Pre-Modeling Steps
 
-a. Feature Selection & Extraction
+  a. Feature Selection & Extraction
 
-b. Correlation Plot
+  b. Correlation Plot
 
-c. Label Encoding
+  c. Label Encoding
 
-Model Building
+6. Model Building
 
-a. Linear Regression Model
+  a. Linear Regression Model
 
-b. Decision Tree Regressor Model
+  b. Decision Tree Regressor Model
 
-c. Random Forest Regressor Model
+  c. Random Forest Regressor Model
 
-Recommendations & Findings
+7. Recommendations & Findings
 
 # Tableau Dashboard Link
 https://public.tableau.com/app/profile/richarambhia/viz/MotorVehicleCollisionCrashAnalysis/Dashboard1
